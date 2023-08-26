@@ -1,0 +1,3 @@
+Number of alphabets: 44
+Number of numeric values: 0
+Number of special symbols: 2

@@ -1,0 +1,4 @@
+/*Write a program that reads file name from the user then displays information about that
+ file, also read the contents from the file in byte stream to count the number of alphabets,
+ numeric values, and special symbols. Write these statistics into another file using byte
+ streams*/1.

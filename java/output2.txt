@@ -1,0 +1,1 @@
+this is a sample file that has been written to write a java program that will copy the contents of a file into another 0123456789 # $.

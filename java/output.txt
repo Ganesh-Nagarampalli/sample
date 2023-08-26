@@ -1,0 +1,3 @@
+number of alphabets:227
+number of integers:1
+number of special symbols:9
